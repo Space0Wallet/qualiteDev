@@ -4,7 +4,7 @@ class Main {
         "C'est ainsi que j'irai reposer près de lui, chère à qui m'est cher, saintement"
             + " criminelle.";
 
-    String citation_limiers 
+    String citation_limiers= 
         "Un bruit? Voilà bien de mes froussards! Vous avez peur? Fétides individus, pétris de\n"
             + " pâte à nouilles, la pire faune de couards! La moindre ombre que vous voyez vous\n"
             + " épouvante, vous avez peur de tout! Pas de nerf, pas de tenue, pas francs du\n"
